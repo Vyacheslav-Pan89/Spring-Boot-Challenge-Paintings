@@ -7,9 +7,9 @@ Dependencies: Spring Web, and Spring Boot Devtools.
 
 Then I've added an index.html file under the static folder and two paintings of Mona Lisa and Salvator Mundi.
 Using the HTML I've:
-Create a header element that displays: "Da Vinci Artwork".
-Create another image element that displays the Mona Lisa.
-Create an image element that displays the Salvator Mundi.
+Created a header element that displays: "Da Vinci Artwork".
+Created another image element that displays the Mona Lisa.
+Created an image element that displays the Salvator Mundi.
 Using inline css I gave each painting a width of 200.
 Then using the HTML inline css, placed each painting in a block-level container.
 
