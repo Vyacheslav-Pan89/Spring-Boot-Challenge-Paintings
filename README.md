@@ -17,3 +17,5 @@ Using the HTML <p></p> tag, displayed the following text under each image:
 The Salvator Mundi was painted for King Louis XII of France
 The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci.
 Using the HTML cheat sheet, place the text inside an inline element.
+
+Here is a link to challange: https://www.learnthepart.com/course/cfd96af5-ca6d-4529-8fae-55f1d9186bc0/a843c687-3d84-4754-9d6b-6d83eacee419 .
